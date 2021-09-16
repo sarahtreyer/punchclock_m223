@@ -1,6 +1,7 @@
 # M223: Punchclock
 Es ist ein Zeiterfassungssystem mit dem mann einen Account erstellen kann um seine Arbeitszeit zu erfassen.
-Man kann jeden Zeiteintrag mit eine Stimmung und einer Katergorie versehen.
+Man kann jeden Zeiteintrag mit einer Stimmung(die man während seiner Arbeitszeit hatte) und einer Katergorie
+(Arbeitszeit, Ferien, Arzt) versehen und diese selber erfassen.
 
 Wie startet man die Applikation?
 - Laden Sie das Projekt herunter.
