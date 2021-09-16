@@ -13,8 +13,8 @@ public class ApplicationUser {
     private String username;
     private String password;
 
-    @OneToMany
-    private List<Entity> entryId;
+    //@OneToMany
+    //private List<Entity> entryId;
     
     public long getId() {
         return id;

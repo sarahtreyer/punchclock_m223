@@ -15,8 +15,8 @@ public class Category{
     private String categoryLenght;
 
 
-    @OneToMany(fetch = FetchType.LAZY, mappedBy = "employee")
-    private List<Entity> entryId;
+    //@OneToMany(fetch = FetchType.LAZY, mappedBy = "employee")
+    //private List<Entity> entryId;
 
     public long getId() {
         return id;

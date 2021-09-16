@@ -12,8 +12,8 @@ public class Mood {
     private long id;
     private String moodName;
 
-    @OneToMany
-    private List<Entity> entryId;
+    //@OneToMany
+    //private List<Entity> entryId;
 
     public long getId() {
         return id;
